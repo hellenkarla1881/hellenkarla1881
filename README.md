@@ -1,11 +1,10 @@
-
 <div align="center">
 
 # Olá! Eu sou Hellen! 🌺
 
 ✨ Estudante de TI | Estagiária em Governança de TI ✨
 
-*Entre aprendizados, bugs e um pouquinho de caos.* 🐈‍⬛
+Entre aprendizados, bugs e um pouquinho de caos. 🐈‍⬛
 
 </div>
 
@@ -27,6 +26,40 @@
 - Qualidade de Software (QA)
 - Testes de Software
 - Engenharia de Requisitos
+
+---
+
+## 💻 Tecnologias e Ferramentas
+
+### 🌱 Conhecimentos acadêmicos (em aprendizado)
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" alt="Java"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" alt="SQL"/>
+</p>
+
+Java • Python • SQL • Banco de Dados
+
+### 💼 Ferramentas utilizadas no estágio
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="50" alt="Jira"/>
+</p>
+
+Jira
+
+---
+
+## 💌 Contatos
+
+<p>
+  <a href="https://www.linkedin.com/in/hellen-karla-costa-campos-moraes-de-melo-922865283">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
