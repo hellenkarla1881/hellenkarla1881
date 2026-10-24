@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="./transferir%20%281%29.gif" alt="Banner da Hellen" width="50%">
+</div>
 
 # Olá! Eu sou Hellen! 🌺
 
