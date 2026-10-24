@@ -72,3 +72,11 @@ Jira
 ♡ ⋆｡˚ ☽ ˚｡⋆ ♡
 
 </div>
+
+---
+
+### 🎨 Créditos
+
+🖤 **Banner animado:** arte associada ao jogo [VirtuaVerse](https://www.thetadivision.com/virtuaverse/), desenvolvido pela Theta Division, com arte de Valenberg.
+
+*O banner utilizado neste perfil não é de minha autoria. ♡*
